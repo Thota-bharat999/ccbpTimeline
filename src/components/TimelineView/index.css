@@ -1,0 +1,23 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+.span-heading {
+  color: #0967d2;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 34px;
+  text-align: center;
+}
+.chrono-container {
+  width: 90vw;
+  height: 75vh;
+}

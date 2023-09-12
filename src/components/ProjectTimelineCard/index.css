@@ -1,0 +1,18 @@
+.project-image {
+  width: 500px;
+  height: 350px;
+}
+.project-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  color: #1e293b;
+  margin-top: 0px;
+}
+.linkDiv {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 700;
+  color: #0967d2;
+  margin-top: 0px;
+}
